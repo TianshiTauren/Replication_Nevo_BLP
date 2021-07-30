@@ -13,3 +13,5 @@ gradobj.m - This function computes the gradient of the objective function;
 jacob.m - This function computes the Jacobian of the implicit function that defines the mean utility; 
 var_cov.m - This function computes the VCov matrix of the estimates. 
 cr_dum.m - This function creates a set of dummy variables
+
+TBA
